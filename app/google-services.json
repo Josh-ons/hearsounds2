@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "990146041124",
+    "project_id": "hearsounds2-23f82",
+    "storage_bucket": "hearsounds2-23f82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:990146041124:android:4423a2c0bab7c9110c8fb1",
+        "android_client_info": {
+          "package_name": "com.example.hearsounds2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKESbqFpbTt3s8_3UdudlbKaiG0WoBrwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
